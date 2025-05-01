@@ -89,6 +89,8 @@ flutter run
 
 ## Demo Example
 
+https://github.com/user-attachments/assets/9b5fa7d4-427f-4ea2-ad1a-b3aa7a7e064f
+
 ## ❓ Need Help?
 
 - 💬 [Join Discord](https://discord.com/invite/f2WsNDN9S5)
