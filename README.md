@@ -22,8 +22,6 @@ A Flutter Rive Example to Showcase Interactive Animated Characters
 
 - Flutter SDK (3.13.0 or above recommended)
 - A [VideoSDK account](https://app.videosdk.live/) and API key
-- To implement Rive Character, clone the [Voice Pilot Quick Start](https://github.com/videosdk-live/character-sdk-flutter-quickstart/tree/main/videosdk-flutter-character-autopilot)Repository and follow the implementation steps.
-
 
 ---
 
@@ -63,6 +61,8 @@ flutter run
 
 ## 📁 Project Structure
 
+Currently, the Rive character is provided in the assets folder. However, you can customize it as needed. To do so, visit the `Rive Editor` or the `Rive Marketplace`, select or create a character, export it, and add it to the assets folder in your project. Once added, you can use the new character in your application.
+
 ```
 /character-sdk-flutter-rive-example/
 ├── assets/
@@ -88,6 +88,11 @@ flutter run
 ---
 
 ## Demo Example
+
+<div align="center">
+  
+<video src="https://github.com/user-attachments/assets/9b5fa7d4-427f-4ea2-ad1a-b3aa7a7e064f" />
+</div>
 
 ## ❓ Need Help?
 
