@@ -2,7 +2,7 @@
 
 A Flutter Rive Example to Showcase Interactive Animated Characters
 
-- Rive is a real-time animation framework that makes it easy to design interactive and responsive animations for apps, games, and websites.
+- [Rive](https://rive.app) is a real-time animation framework that makes it easy to design interactive and responsive animations for apps, games, and websites.
 - In this Flutter Rive example, we showcase how Rive characters can serve as dynamic avatars that react to events such as speech, gestures, or user interactions. 
 
 ---
@@ -61,7 +61,7 @@ flutter run
 
 ## 📁 Project Structure
 
-Currently, the Rive character is provided in the assets folder. However, you can customize it as needed. To do so, visit the `Rive Editor` or the `Rive Marketplace`, select or create a character, export it, and add it to the assets folder in your project. Once added, you can use the new character in your application.
+Currently, the Rive character is provided in the assets folder. However, you can customize it as needed. To do so, visit the [Rive Editor](https://rive.app/editor) or the [Rive Marketplace](https://rive.app/marketplace/), select or create a character, export it, and add it to the assets folder in your project. Once added, you can use the new character in your application.
 
 ```
 /character-sdk-flutter-rive-example/
