@@ -7,10 +7,10 @@ String token = "<Generated token here>";
 // API call to create meeting
 Future<String> createMeeting() async {
   final http.Response httpResponse = await http.post(
-    Uri.parse("https://api.videosdk.live/v2/rooms"),
+    Uri.parse("https://api.videosdk.live/v1/meetings"),
     headers: {'Authorization': token},
   );
 
 //Destructuring the roomId from the response
-  return json.decode(httpResponse.body)['roomId'];
+  return json.decode(httpResponse.body)['meetingId'];
 }
